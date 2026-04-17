@@ -1,3 +1,12 @@
+
+# HIT137 Assignment 2 - Question 1
+
+#Group 7
+# Member 1: Swojan Singh Maharjan - s401770
+# Member 2: Alan Joshi John - s394323
+# Member 3: Sandip Kharel - s401293
+# Member 4: Haonan Ding - s394323
+
 #!/usr/bin/env python
 # coding: utf-8
 
